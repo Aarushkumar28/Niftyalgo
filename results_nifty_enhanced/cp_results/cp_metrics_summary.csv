@@ -1,0 +1,5 @@
+Method,Coverage,Avg_Set_Size,Singleton_Rate,Empty_Set_Rate,Coverage_UP,Coverage_DOWN
+Baseline CP,0.8448,1.7586,0.2414,0.0,1.0,0.7097
+CQR (MAPIE),1.0,2.0,0.0,0.0,1.0,1.0
+Normalised CP,0.7414,1.569,0.431,0.0,1.0,0.5161
+ACI (adaptive),0.8448,1.7586,0.2414,0.0,1.0,0.7097
